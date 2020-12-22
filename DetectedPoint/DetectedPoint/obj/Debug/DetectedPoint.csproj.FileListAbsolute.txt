@@ -1,0 +1,9 @@
+C:\Users\Sajeruk\source\repos\DetectedPoint\DetectedPoint\obj\Debug\DetectedPoint.csprojAssemblyReference.cache
+C:\Users\Sajeruk\source\repos\DetectedPoint\DetectedPoint\obj\Debug\DetectedPoint.Properties.Resources.resources
+C:\Users\Sajeruk\source\repos\DetectedPoint\DetectedPoint\obj\Debug\DetectedPoint.csproj.GenerateResource.cache
+C:\Users\Sajeruk\source\repos\DetectedPoint\DetectedPoint\obj\Debug\DetectedPoint.csproj.CoreCompileInputs.cache
+C:\Users\Sajeruk\source\repos\DetectedPoint\DetectedPoint\bin\Debug\DetectedPoint.exe.config
+C:\Users\Sajeruk\source\repos\DetectedPoint\DetectedPoint\bin\Debug\DetectedPoint.exe
+C:\Users\Sajeruk\source\repos\DetectedPoint\DetectedPoint\bin\Debug\DetectedPoint.pdb
+C:\Users\Sajeruk\source\repos\DetectedPoint\DetectedPoint\obj\Debug\DetectedPoint.exe
+C:\Users\Sajeruk\source\repos\DetectedPoint\DetectedPoint\obj\Debug\DetectedPoint.pdb
